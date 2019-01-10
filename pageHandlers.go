@@ -29,7 +29,7 @@ func NewPlaceHolderStruct() *PlaceHolderStruct {
 	return e
 }
 
-const MAX_FACTOMDLOCATION_SIZE int = 30
+const MAX_FACTOMDLOCATION_SIZE int = 50
 
 // SettingsStruct
 // Every Handle struct must have settings
